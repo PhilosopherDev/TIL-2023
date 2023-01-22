@@ -35,6 +35,8 @@
 >
 > > 1. [Challenge][Frontend Mentor]: advice-generator-app API get 코드 작성 및 Soution 제출 
 > >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/advice-generator-app) 🔮 [Solution](https://www.frontendmentor.io/solutions/advice-generator-app-Y8qRN81VYG) 🌐 [Live Site](https://philosopherprogrammer.github.io/advice-generator-app/)
+> > 2. [Challenge][Frontend Mentor]: github-user-search-app setup
+> >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
 >
 
 **[⬆ Back to Top](#overview)**
