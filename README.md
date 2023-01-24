@@ -73,5 +73,15 @@
 > > 2. [Challenge][Frontend Mentor]: github-user-search-app - setup
 > >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
 >
+> #### 2023.1.23 월
+>
+> > 1. [Challenge][Frontend Mentor]: github-user-search-app - reset, color, font, etc. commont setting
+> >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
+>
+> #### 2023.1.24 화
+>
+> > 1. [Challenge][Frontend Mentor]: github-user-search-app - html tag structuring, header, search styling, grid searching.
+> >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
+>
 
 **[⬆ Back to Top](#overview)**
