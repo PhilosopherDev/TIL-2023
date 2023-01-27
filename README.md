@@ -83,5 +83,20 @@
 > > 1. [Challenge][Frontend Mentor]: github-user-search-app - html tag structuring, header, search styling, grid searching.
 > >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
 >
+> #### 2023.1.25 수
+>
+> > 1. [Challenge][Frontend Mentor]: github-user-search-app - change folder name
+> >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
+>
+> #### 2023.1.26 목
+>
+> > 1. [Challenge][Frontend Mentor]: github-user-search-app - card section structuring
+> >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
+>
+> #### 2023.1.27 금
+>
+> > 1. [Challenge][Frontend Mentor]: github-user-search-app - grid responsive structuring
+> >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
+>
 
 **[⬆ Back to Top](#overview)**
