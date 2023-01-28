@@ -47,9 +47,6 @@
 >
 > > 1. [Challenge][Frontend Mentor]: interactive-rating-component - Solution 제출 
 > >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/interactive-rating-component) 🔮 [Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-FhgSymMR15) 🌐 [Live Site](https://philosopherprogrammer.github.io/interactive-rating-component/) 
-
-**[⬆ Back to Top](#overview)**
-
 >
 > #### 2023.1.20 금
 >
