@@ -114,5 +114,10 @@
 > > 1. [Challenge][Frontend Mentor]: github-user-search-app - svg inline, dark mode setting
 > >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
 >
+> #### 2023.1.31 화
+>
+> > 1. [Challenge][Frontend Mentor]: github-user-search-app - toggle mode 적용, mobile detail styling
+> >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
+>
 
 **[⬆ Back to Top](#overview)**
