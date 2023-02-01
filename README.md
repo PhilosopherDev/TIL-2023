@@ -118,6 +118,11 @@
 >
 > > 1. [Challenge][Frontend Mentor]: github-user-search-app - toggle mode 적용, mobile detail styling
 > >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
+>     
+> #### 2023.2.1 수
+>
+> > 1. [Challenge][Frontend Mentor]: github-user-search-app - github token 생성, api 연결 prototype
+> >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
 >
 
 **[⬆ Back to Top](#overview)**
