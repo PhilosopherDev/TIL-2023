@@ -124,5 +124,10 @@
 > > 1. [Challenge][Frontend Mentor]: github-user-search-app - github token 생성, api 연결 prototype
 > >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
 >
+> #### 2023.2.2 목
+>
+> > 1. [Challenge][Frontend Mentor]: github-user-search-app - onSearch click
+> >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
+>
 
 **[⬆ Back to Top](#overview)**
