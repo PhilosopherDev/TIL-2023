@@ -129,5 +129,10 @@
 > > 1. [Challenge][Frontend Mentor]: github-user-search-app - onSearch click
 > >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
 >
+> #### 2023.2.3 금
+>
+> > 1. [Challenge][Frontend Mentor]: github-user-search-app - try catch 처리, 사용할 data 추출
+> >     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/github-user-search-app)
+>
 
 **[⬆ Back to Top](#overview)**
